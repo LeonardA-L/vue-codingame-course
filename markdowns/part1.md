@@ -12,4 +12,6 @@ For this example course, the provided sources make a simple Markdown editor, but
 
 This course only has one lesson, but we do support making multiple lessons into one course.
 
+The full CodinGame contribution (including vue.js related sources) is [available on GitHub](https://github.com/LeonardA-L/vue-codingame-course)
+
 This course is based on [this official example](https://vuejs.org/v2/examples/) 
