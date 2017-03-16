@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="main.css"/>
+
+  <script src="libs/marked.js"></script>
+  <script src="libs/lodash.js"></script>
+  <script src="libs/vue.js"></script>
+
+</head>
+
+
+<body>
+  
+  <div id="editor">
+    <textarea :value="input" @input="update"></textarea>
+    <div v-html="compiledMarkdown"></div>
+  </div>
+
+  <script src="main.js"></script>
+  
+</body>
+
+
+
+</html>

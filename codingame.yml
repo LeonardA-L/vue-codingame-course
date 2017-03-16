@@ -1,6 +1,10 @@
-title : Content name
+title : Vue.js
 plan:
-  - title: Part 1
+  - title: Simple markdown editor with Vue.js
     statement: markdowns/part1.md
-  - title: Part 2
-    statement: markdowns/part2.md
+projects:
+  vue:
+   root: root
+   runner:
+    name: codingame/node-npm-runner
+    version: latest
