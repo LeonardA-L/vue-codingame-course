@@ -3,7 +3,7 @@ Although this vue.js project has a multiple source files I chose to reduce the n
 
 The learner can modify these files and then run the project in our environnement.
 
-@[Proof of concept Vue]({"layout": "aside", "stubs": ["index.html", "main.js"], "command": "/bin/bash /project/target/run.sh"})
+@[Proof of concept Vue]({"stubs": ["index.html", "main.js"], "command": "/bin/bash /project/target/run.sh"})
 
 # Left is for learning
 This left panel is here to display the actual course content. It's markdown based, and the contributor can explain basically anything and ask the learner to code stuff on the right.
